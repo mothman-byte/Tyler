@@ -13,8 +13,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated projects. make sure to hyperlink the project]
 
-
-
+| Skill                                                 | Associated Projecct              |
+|-------------------------------------------------------|----------------------------------|
+|Cybersecurity Internal Audit                           |                                  | 
 
 
 
